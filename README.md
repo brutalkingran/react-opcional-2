@@ -19,4 +19,8 @@ Familiarizarse con la estructura de componentes y la comunicación entre ellos.
 
 # Despliegue
 
-#TODO: Agregar despliegue
+1. crear `netlify.toml` en `./public`
+2. `npm run build`
+3. subir `./build`
+
+[Componentes en React - Despliegue](https://componentesreactdiplomatura.netlify.app/)
